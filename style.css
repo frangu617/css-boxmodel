@@ -1,0 +1,31 @@
+main{
+    width: 50vw;
+    /* height: 50vh; */
+    border:2px solid green;
+    background-color: yellow;
+    padding:1em;
+    margin: 0 auto;
+}
+
+div{
+   background-color: green;
+   /* height:50px; */
+   /* width:40%; */
+   display:inline-block;
+   padding: 1em;
+   border:3px groove red;
+   border-radius: 10px 50px;
+   text-align: right;
+   color: aliceblue;
+   font-size: 1em;;
+   font-family: fantasy;
+   text-shadow: 5px 5px 5px black;
+   box-shadow: 5px 5px 7px black;
+}
+
+.bold-txt{
+    font-weight: bolder;
+    font-size: larger;
+    color: yellow;
+    background-color: rgba(0, 73, 0, 0.541);
+}
